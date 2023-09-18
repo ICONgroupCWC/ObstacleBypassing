@@ -29,7 +29,7 @@ Before running the robot code, make sure you have the following prerequisites:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/autonomous-obstacle-robot.git
+git clone https://github.com/ICONgroupCWC/ObstacleBypassing.git
 cd autonomous-obstacle-robot
 ```
 
@@ -51,7 +51,7 @@ Note: Make sure you have access to an NVIDIA Jetson device and have the necessar
 
 Check out the following demo video to see the autonomous obstacle bypass robot in action:
 
-[![Demo Video](https://img.youtube.com/vi/your-demo-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-demo-video-id)
+[![Demo Video](https://)](https://)
 
 ## License
 
