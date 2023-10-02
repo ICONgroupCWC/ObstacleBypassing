@@ -51,7 +51,7 @@ Note: Make sure you have access to an NVIDIA Jetson device and have the necessar
 
 Check out the following demo video to see the autonomous obstacle bypass robot in action:
 
-[![Demo Video](https://)](https://)
+[![Demo Video](http://i3.ytimg.com/vi/zC5y01txFu0/hqdefault.jpg)](https://www.youtube.com/watch?v=zC5y01txFu0)
 
 ## License
 
