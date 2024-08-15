@@ -1,4 +1,4 @@
-# Autonomous Obstacle Bypass Robot
+# Autonomous Obstacle Bypass Robot [[ACM](https://dl.acm.org/doi/abs/10.1145/3570361.3614066)]
 
 This repository contains the codebase for an autonomous robot capable of bypassing obstacles in cluttered environments using a camera as its sole sensing mechanism. The robot is programmed to follow a predetermined path via a line following module while utilizing a custom object detection model to detect and differentiate obstacles on the road from other objects in the environment.
 
